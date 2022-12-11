@@ -1,8 +1,13 @@
-🖐  Hi, I’m @Gulam10
-👀  I’m interested in Software development.
-🌱  I’m an Android developer(Native Kotlin).
-💞️  I’m an Engineering student graduating in 2023.
-💻  I am Looking for an Internship preferrably Remote.
+🖐  Hi, I’m @Gulam10 
+
+👀  I’m interested in Software development
+
+🌱  I’m an Android developer(Native Kotlin)
+
+💞️  I’m an Engineering student graduating in 2023
+
+💻  I am Looking for an Internship preferrably Remote
+
 📫  Reach me on Twitter https://twitter.com/GMUSTAFA41
 
 <!---
